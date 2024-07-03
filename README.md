@@ -1,3 +1,14 @@
+**Acerca del proyecto:**
+Desarrollado en windows 10 64bits
+PHP 8.2.13
+Composer 2.7.7
+
+Descargar y correr con `php spark serve`
+
+Ejecutar pruebas unitarias con `vendor\bin\phpunit`
+
+
+
 /* INSTRUCCIONES PARA EL CHALLENGE TÉCNICO DE ECOMM-APP */
 
 En este desafío técnico se busca implementar un CRUD básico de una sola entidad (Producto).
