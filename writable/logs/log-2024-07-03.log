@@ -1,0 +1,6280 @@
+CRITICAL - 2024-07-03 03:59:02 --> ErrorException: Trait method CodeIgniter\Test\FeatureTestTrait::withBody has not been applied as App\Controllers\ProductTest::withBody, because of collision with CodeIgniter\Test\ControllerTestTrait::withBody
+[Method: GET, Route: /]
+in ROOTPATH\tests\app\Controllers\ProductsTest.php on line 12.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-07-03 04:00:28 --> ErrorException: Trait method CodeIgniter\Test\FeatureTestTrait::withBody has not been applied as App\Controllers\ProductTest::withBody, because of collision with CodeIgniter\Test\ControllerTestTrait::withBody
+[Method: GET, Route: /]
+in ROOTPATH\tests\app\Controllers\ProductsTest.php on line 12.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-07-03 04:00:55 --> ErrorException: Trait method CodeIgniter\Test\FeatureTestTrait::withBody has not been applied as App\Controllers\ProductsTest::withBody, because of collision with CodeIgniter\Test\ControllerTestTrait::withBody
+[Method: GET, Route: /]
+in ROOTPATH\tests\app\Controllers\ProductsTest.php on line 12.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-07-03 01:05:04 --> Ingreso usuario: 
+INFO - 2024-07-03 01:05:04 --> Ingreso usuario: 
+INFO - 2024-07-03 01:05:04 --> Ingreso a listado de productos
+ERROR - 2024-07-03 01:05:04 --> Error al intentar listar productos: Trying to access array offset on value of type null
+INFO - 2024-07-03 01:05:04 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:05:04 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:05:04 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:07:36 --> Ingreso usuario: 
+INFO - 2024-07-03 01:07:36 --> Ingreso usuario: 
+INFO - 2024-07-03 01:07:36 --> Ingreso a listado de productos
+ERROR - 2024-07-03 01:07:36 --> Error al intentar listar productos: Trying to access array offset on value of type null
+INFO - 2024-07-03 01:07:36 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:07:36 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:07:36 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:10:23 --> Ingreso usuario: 
+INFO - 2024-07-03 01:10:23 --> Ingreso usuario: 
+INFO - 2024-07-03 01:10:23 --> Ingreso a listado de productos
+ERROR - 2024-07-03 01:10:23 --> Error al intentar listar productos: Trying to access array offset on value of type null
+INFO - 2024-07-03 01:10:23 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:10:23 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:10:23 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:11:34 --> Ingreso usuario: 
+INFO - 2024-07-03 01:11:34 --> Ingreso usuario: 
+INFO - 2024-07-03 01:11:34 --> Ingreso a listado de productos
+ERROR - 2024-07-03 01:11:34 --> Error al intentar listar productos: Trying to access array offset on value of type null
+INFO - 2024-07-03 01:11:34 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:11:34 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:11:34 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:12:15 --> Ingreso usuario: 
+INFO - 2024-07-03 01:12:15 --> Ingreso usuario: 
+INFO - 2024-07-03 01:12:15 --> Ingreso a listado de productos
+ERROR - 2024-07-03 01:12:15 --> Error al intentar listar productos: Trying to access array offset on value of type null
+INFO - 2024-07-03 01:12:15 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:12:15 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:12:15 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:17:35 --> Ingreso usuario: 
+INFO - 2024-07-03 01:17:35 --> Ingreso usuario: 
+INFO - 2024-07-03 01:17:35 --> Ingreso a listado de productos
+ERROR - 2024-07-03 01:17:35 --> Error al intentar listar productos: Trying to access array offset on value of type null
+INFO - 2024-07-03 01:17:35 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:17:35 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:17:35 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:23:50 --> Ingreso usuario: 
+INFO - 2024-07-03 01:23:50 --> Ingreso usuario: 
+INFO - 2024-07-03 01:23:50 --> Ingreso a listado de productos
+ERROR - 2024-07-03 01:23:50 --> Error al intentar listar productos: Trying to access array offset on value of type null
+INFO - 2024-07-03 01:23:50 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:23:50 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:23:50 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:24:02 --> Ingreso usuario: 
+INFO - 2024-07-03 01:24:02 --> Ingreso usuario: 
+INFO - 2024-07-03 01:24:02 --> Ingreso a listado de productos
+ERROR - 2024-07-03 01:24:02 --> Error al intentar listar productos: Trying to access array offset on value of type null
+INFO - 2024-07-03 01:24:02 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:24:02 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:24:02 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:24:33 --> Ingreso usuario: 
+INFO - 2024-07-03 01:24:33 --> Ingreso usuario: 
+INFO - 2024-07-03 01:24:33 --> Ingreso a listado de productos
+ERROR - 2024-07-03 01:24:33 --> Error al intentar listar productos: Trying to access array offset on value of type null
+INFO - 2024-07-03 01:24:33 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:24:33 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:24:33 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:26:05 --> Ingreso usuario: 
+INFO - 2024-07-03 01:26:05 --> Ingreso usuario: 
+INFO - 2024-07-03 01:26:05 --> Ingreso a listado de productos
+ERROR - 2024-07-03 01:26:05 --> Error al intentar listar productos: Trying to access array offset on value of type null
+INFO - 2024-07-03 01:26:05 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:26:05 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:26:05 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:26:12 --> Ingreso usuario: 
+INFO - 2024-07-03 01:26:12 --> Ingreso usuario: 
+INFO - 2024-07-03 01:26:12 --> Ingreso a listado de productos
+ERROR - 2024-07-03 01:26:12 --> Error al intentar listar productos: Trying to access array offset on value of type null
+INFO - 2024-07-03 01:26:12 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:26:12 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:26:12 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:31:33 --> Ingreso usuario: 
+INFO - 2024-07-03 01:31:33 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:31:33 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:31:33 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:32:02 --> Ingreso usuario: 
+INFO - 2024-07-03 01:32:02 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:32:02 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:32:02 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:32:54 --> Ingreso usuario: 
+INFO - 2024-07-03 01:32:54 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:32:54 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:32:54 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:33:24 --> Ingreso usuario: 
+INFO - 2024-07-03 01:33:24 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:33:24 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:33:24 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:33:44 --> Ingreso usuario: 
+INFO - 2024-07-03 01:33:44 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:33:44 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:33:44 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:34:01 --> Ingreso usuario: 
+INFO - 2024-07-03 01:34:01 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:34:01 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:34:01 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:34:38 --> Ingreso usuario: 
+INFO - 2024-07-03 01:34:38 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:34:38 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:34:38 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:35:16 --> Ingreso usuario: 
+INFO - 2024-07-03 01:35:16 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:35:16 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:35:16 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:35:39 --> Ingreso usuario: 
+INFO - 2024-07-03 01:35:39 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:35:39 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:35:39 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:35:56 --> Ingreso usuario: 
+INFO - 2024-07-03 01:35:56 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:35:56 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:35:56 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:36:06 --> Ingreso usuario: 
+INFO - 2024-07-03 01:36:06 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:36:06 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:36:06 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:36:26 --> Ingreso usuario: 
+INFO - 2024-07-03 01:36:27 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:36:27 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:36:27 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:36:41 --> Ingreso usuario: 
+INFO - 2024-07-03 01:36:41 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:36:41 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:36:42 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:36:46 --> Ingreso usuario: 
+INFO - 2024-07-03 01:36:46 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:36:46 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:36:46 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:37:03 --> Ingreso usuario: 
+INFO - 2024-07-03 01:37:03 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:37:03 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:37:03 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:37:29 --> Ingreso usuario: 
+INFO - 2024-07-03 01:37:29 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:37:29 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:37:29 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:37:45 --> Ingreso usuario: 
+INFO - 2024-07-03 01:37:45 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:37:45 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:37:45 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:38:04 --> Ingreso usuario: 
+INFO - 2024-07-03 01:38:04 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:38:04 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:38:04 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:38:17 --> Ingreso usuario: 
+INFO - 2024-07-03 01:38:17 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:38:17 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:38:17 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:38:37 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:38:37 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:38:37 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:39:10 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:39:10 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:39:10 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:39:21 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:39:21 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:39:21 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:39:42 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:39:42 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:39:42 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:40:09 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:40:09 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:40:09 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:40:16 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 01:40:16 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:40:16 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:48:32 --> Ingreso usuario: 
+CRITICAL - 2024-07-03 01:48:32 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: products]
+in APPPATH\Controllers\Products.php on line 19.
+ 1 APPPATH\Controllers\Products.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\med96\\Desktop\\tmp\\app\\Controllers\\Products.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\med96\\Desktop\\tmp\\public\\index.php')
+INFO - 2024-07-03 01:48:47 --> CSRF token verified.
+INFO - 2024-07-03 01:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:48:47 --> Intentando obtener listado de usuarios
+INFO - 2024-07-03 01:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:48:47 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 01:48:48 --> CSRF token verified.
+INFO - 2024-07-03 01:48:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:48:48 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 01:48:48 --> Ingreso a listado de productos
+INFO - 2024-07-03 01:48:48 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 5
+                    [title] => Producto 5
+                    [price] => 875
+                    [created_at] => 2024-07-02 15:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 01:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:50:23 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 01:50:23 --> CSRF token verified.
+INFO - 2024-07-03 01:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:50:23 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 01:50:23 --> Ingreso a listado de productos
+INFO - 2024-07-03 01:50:23 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 5
+                    [title] => Producto 5
+                    [price] => 875
+                    [created_at] => 2024-07-02 15:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 01:51:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:51:12 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 01:51:13 --> CSRF token verified.
+INFO - 2024-07-03 01:51:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:51:13 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 01:51:13 --> Ingreso a listado de productos
+INFO - 2024-07-03 01:51:13 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 5
+                    [title] => Producto 5
+                    [price] => 875
+                    [created_at] => 2024-07-02 15:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 01:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:51:25 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 01:51:25 --> CSRF token verified.
+INFO - 2024-07-03 01:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:51:25 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 01:51:25 --> Ingreso a listado de productos
+INFO - 2024-07-03 01:51:25 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 5
+                    [title] => Producto 5
+                    [price] => 875
+                    [created_at] => 2024-07-02 15:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 01:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:52:06 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 01:52:06 --> CSRF token verified.
+INFO - 2024-07-03 01:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:52:06 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 01:52:06 --> Ingreso a listado de productos
+INFO - 2024-07-03 01:52:06 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 5
+                    [title] => Producto 5
+                    [price] => 875
+                    [created_at] => 2024-07-02 15:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 01:52:26 --> CSRF token verified.
+INFO - 2024-07-03 01:52:26 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 01:52:26 --> CSRF token verified.
+INFO - 2024-07-03 01:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 01:52:26 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 01:52:26 --> Ingreso a listado de productos
+INFO - 2024-07-03 01:52:26 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 5
+                    [title] => Producto 5
+                    [price] => 875
+                    [created_at] => 2024-07-02 15:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 13
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:01:15 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:01:15 --> CSRF token verified.
+INFO - 2024-07-03 02:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:01:15 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:01:15 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:01:15 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 5
+                    [title] => Producto 5
+                    [price] => 875
+                    [created_at] => 2024-07-02 15:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 13
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:01:26 --> CSRF token verified.
+INFO - 2024-07-03 02:01:26 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:01:26 --> CSRF token verified.
+INFO - 2024-07-03 02:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:01:26 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:01:26 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:01:26 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 5
+                    [title] => Producto 5
+                    [price] => 875
+                    [created_at] => 2024-07-02 15:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 14
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:01:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:01:48 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:01:48 --> CSRF token verified.
+INFO - 2024-07-03 02:01:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:01:48 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:01:48 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:01:48 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 5
+                    [title] => Producto 5
+                    [price] => 875
+                    [created_at] => 2024-07-02 15:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 14
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:01:56 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:01:57 --> CSRF token verified.
+INFO - 2024-07-03 02:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:01:57 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:01:57 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:01:57 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 5
+                    [title] => Producto 5
+                    [price] => 875
+                    [created_at] => 2024-07-02 15:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 14
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:02:15 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:02:15 --> CSRF token verified.
+INFO - 2024-07-03 02:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:02:15 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:02:15 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:02:15 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 5
+                    [title] => Producto 5
+                    [price] => 875
+                    [created_at] => 2024-07-02 15:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 14
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:02:20 --> CSRF token verified.
+INFO - 2024-07-03 02:02:20 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:02:20 --> CSRF token verified.
+INFO - 2024-07-03 02:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:02:20 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:02:20 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:02:20 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 13
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:03:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:03:25 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:03:25 --> CSRF token verified.
+INFO - 2024-07-03 02:03:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:03:25 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:03:25 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:03:25 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 8
+                    [title] => Producto 8
+                    [price] => 760
+                    [created_at] => 2024-07-02 18:35
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 13
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:03:28 --> CSRF token verified.
+INFO - 2024-07-03 02:03:28 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:03:28 --> CSRF token verified.
+INFO - 2024-07-03 02:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:03:28 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:03:28 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:03:28 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:05:16 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:05:16 --> CSRF token verified.
+INFO - 2024-07-03 02:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:05:16 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:05:16 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:05:16 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 6
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:05:18 --> Ingreso a edicion de producto
+INFO - 2024-07-03 02:05:20 --> CSRF token verified.
+INFO - 2024-07-03 02:05:20 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 02:05:20 --> CSRF token verified.
+INFO - 2024-07-03 02:05:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:05:20 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:05:20 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:05:20 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:06:03 --> Ingreso a edicion de producto
+INFO - 2024-07-03 02:06:05 --> CSRF token verified.
+INFO - 2024-07-03 02:06:05 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 02:06:05 --> CSRF token verified.
+INFO - 2024-07-03 02:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:06:05 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:06:05 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:06:05 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10w
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:06:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:06:08 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:06:09 --> CSRF token verified.
+INFO - 2024-07-03 02:06:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:06:09 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:06:09 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:06:09 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10w
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:06:10 --> Ingreso a edicion de producto
+INFO - 2024-07-03 02:06:12 --> CSRF token verified.
+INFO - 2024-07-03 02:06:12 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 02:06:12 --> CSRF token verified.
+INFO - 2024-07-03 02:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:06:12 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:06:12 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:06:12 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9w
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10w
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:06:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:06:19 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:06:19 --> CSRF token verified.
+INFO - 2024-07-03 02:06:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:06:19 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:06:19 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:06:19 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9w
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10w
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:06:20 --> Ingreso a edicion de producto
+INFO - 2024-07-03 02:06:22 --> CSRF token verified.
+INFO - 2024-07-03 02:06:22 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 02:06:22 --> CSRF token verified.
+INFO - 2024-07-03 02:06:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:06:22 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:06:22 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:06:22 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9w
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10w
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:07:03 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:07:03 --> CSRF token verified.
+INFO - 2024-07-03 02:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:07:03 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:07:03 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:07:03 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9w
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10w
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:07:04 --> Ingreso a edicion de producto
+INFO - 2024-07-03 02:07:05 --> CSRF token verified.
+INFO - 2024-07-03 02:07:05 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 02:07:05 --> CSRF token verified.
+INFO - 2024-07-03 02:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:07:05 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:07:05 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:07:05 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9w
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10w
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:08:29 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:08:29 --> CSRF token verified.
+INFO - 2024-07-03 02:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:08:29 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:08:29 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:08:29 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9w
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10w
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:08:30 --> Ingreso a edicion de producto
+INFO - 2024-07-03 02:08:32 --> CSRF token verified.
+INFO - 2024-07-03 02:08:32 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 02:08:32 --> CSRF token verified.
+INFO - 2024-07-03 02:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:08:32 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:08:32 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:08:32 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9w
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10w
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:10:54 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:10:54 --> CSRF token verified.
+INFO - 2024-07-03 02:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:10:54 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:10:54 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:10:54 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 9
+                    [title] => Producto 9w
+                    [price] => 1320
+                    [created_at] => 2024-07-02 19:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10w
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 12
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:10:56 --> CSRF token verified.
+INFO - 2024-07-03 02:10:56 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:10:56 --> CSRF token verified.
+INFO - 2024-07-03 02:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:10:56 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:10:56 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:10:56 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 10
+                    [title] => Producto 10w
+                    [price] => 1540
+                    [created_at] => 2024-07-02 20:15
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 3
+    [totalCount] => 11
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:11:28 --> CSRF token verified.
+INFO - 2024-07-03 02:11:28 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:11:28 --> CSRF token verified.
+INFO - 2024-07-03 02:11:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:11:28 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:11:28 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:11:28 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 10
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:11:51 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:11:51 --> CSRF token verified.
+INFO - 2024-07-03 02:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:11:51 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:11:51 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:11:51 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 11
+                    [title] => Producto 11
+                    [price] => 890
+                    [created_at] => 2024-07-03 09:30
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 10
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:11:55 --> CSRF token verified.
+INFO - 2024-07-03 02:11:55 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:11:55 --> CSRF token verified.
+INFO - 2024-07-03 02:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:11:55 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:11:55 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:11:55 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:12:11 --> CSRF token verified.
+INFO - 2024-07-03 02:12:11 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:12:11 --> CSRF token verified.
+INFO - 2024-07-03 02:12:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:12:11 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:12:11 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:12:11 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 10
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:13:28 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:13:28 --> CSRF token verified.
+INFO - 2024-07-03 02:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:13:28 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:13:28 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:13:28 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 12
+                    [title] => Producto 12
+                    [price] => 1100
+                    [created_at] => 2024-07-03 11:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 10
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:13:30 --> CSRF token verified.
+INFO - 2024-07-03 02:13:30 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:13:30 --> CSRF token verified.
+INFO - 2024-07-03 02:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:13:30 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:13:30 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:13:30 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:16:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:16:10 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:16:10 --> CSRF token verified.
+INFO - 2024-07-03 02:16:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:16:10 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:16:10 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:16:10 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:16:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:16:11 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:16:11 --> CSRF token verified.
+INFO - 2024-07-03 02:16:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:16:11 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:16:11 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:16:11 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:16:17 --> CSRF token verified.
+INFO - 2024-07-03 02:16:17 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:16:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:16:29 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:16:29 --> CSRF token verified.
+INFO - 2024-07-03 02:16:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:16:29 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:16:29 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:16:29 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:16:32 --> CSRF token verified.
+INFO - 2024-07-03 02:16:32 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:16:52 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:16:52 --> CSRF token verified.
+INFO - 2024-07-03 02:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:16:52 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:16:52 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:16:52 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:16:56 --> CSRF token verified.
+INFO - 2024-07-03 02:16:56 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:18:37 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:18:37 --> CSRF token verified.
+INFO - 2024-07-03 02:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:18:37 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:18:37 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:18:37 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:18:41 --> CSRF token verified.
+INFO - 2024-07-03 02:18:41 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:20:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:20:21 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:20:21 --> CSRF token verified.
+INFO - 2024-07-03 02:20:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:20:21 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:20:21 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:20:21 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:20:29 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:20:30 --> CSRF token verified.
+INFO - 2024-07-03 02:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:20:30 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:20:30 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:20:30 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:21:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:21:23 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:21:23 --> CSRF token verified.
+INFO - 2024-07-03 02:21:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:21:23 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:21:23 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:21:23 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:21:48 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:21:48 --> CSRF token verified.
+INFO - 2024-07-03 02:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:21:48 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:21:48 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:21:48 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:21:57 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:21:57 --> CSRF token verified.
+INFO - 2024-07-03 02:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:21:57 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:21:57 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:21:57 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 15
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:21:59 --> Ingreso a edicion de producto
+INFO - 2024-07-03 02:22:03 --> CSRF token verified.
+INFO - 2024-07-03 02:22:03 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 02:22:03 --> CSRF token verified.
+INFO - 2024-07-03 02:22:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:22:03 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:22:03 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:22:03 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 152
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:23:29 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:23:29 --> CSRF token verified.
+INFO - 2024-07-03 02:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:23:29 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:23:29 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:23:29 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 152
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:24:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:24:13 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:24:13 --> CSRF token verified.
+INFO - 2024-07-03 02:24:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:24:13 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:24:13 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:24:13 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 15
+                    [title] => Producto 152
+                    [price] => 1180
+                    [created_at] => 2024-07-03 16:55
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 9
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:24:15 --> CSRF token verified.
+INFO - 2024-07-03 02:24:15 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:24:15 --> CSRF token verified.
+INFO - 2024-07-03 02:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:24:15 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:24:15 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:24:15 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 18
+                    [title] => asasd
+                    [price] => 213
+                    [created_at] => 2024-06-02 22:35
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 8
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:24:45 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:24:45 --> CSRF token verified.
+INFO - 2024-07-03 02:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:24:45 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:24:45 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:24:45 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 13
+                    [title] => Producto 13
+                    [price] => 1350
+                    [created_at] => 2024-07-03 13:20
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 18
+                    [title] => asasd
+                    [price] => 213
+                    [created_at] => 2024-06-02 22:35
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 8
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:24:48 --> CSRF token verified.
+INFO - 2024-07-03 02:24:48 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:24:48 --> CSRF token verified.
+INFO - 2024-07-03 02:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:24:48 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:24:48 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:24:48 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 18
+                    [title] => asasd
+                    [price] => 213
+                    [created_at] => 2024-06-02 22:35
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 7
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:25:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:25:15 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:25:15 --> CSRF token verified.
+INFO - 2024-07-03 02:25:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:25:15 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:25:15 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:25:15 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 16
+                    [title] => Tutu
+                    [price] => 11750000
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 18
+                    [title] => asasd
+                    [price] => 213
+                    [created_at] => 2024-06-02 22:35
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 7
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:25:17 --> CSRF token verified.
+INFO - 2024-07-03 02:25:17 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:25:17 --> CSRF token verified.
+INFO - 2024-07-03 02:25:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:25:17 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:25:17 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:25:17 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 18
+                    [title] => asasd
+                    [price] => 213
+                    [created_at] => 2024-06-02 22:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 6
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:25:23 --> CSRF token verified.
+INFO - 2024-07-03 02:25:23 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:25:30 --> CSRF token verified.
+INFO - 2024-07-03 02:25:30 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:25:35 --> CSRF token verified.
+INFO - 2024-07-03 02:25:35 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:26:04 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:26:05 --> CSRF token verified.
+INFO - 2024-07-03 02:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:26:05 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:26:05 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:26:05 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 17
+                    [title] => awEFDASDF
+                    [price] => 123123
+                    [created_at] => 2024-07-02 21:45
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 18
+                    [title] => asasd
+                    [price] => 213
+                    [created_at] => 2024-06-02 22:35
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 2
+    [totalCount] => 6
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:26:08 --> CSRF token verified.
+INFO - 2024-07-03 02:26:08 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:26:08 --> CSRF token verified.
+INFO - 2024-07-03 02:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:26:08 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:26:08 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:26:08 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 18
+                    [title] => asasd
+                    [price] => 213
+                    [created_at] => 2024-06-02 22:35
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 5
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:26:16 --> CSRF token verified.
+INFO - 2024-07-03 02:26:16 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:26:20 --> CSRF token verified.
+INFO - 2024-07-03 02:26:20 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:26:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:26:46 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:26:46 --> CSRF token verified.
+INFO - 2024-07-03 02:26:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:26:46 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:26:46 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:26:46 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 18
+                    [title] => asasd
+                    [price] => 213
+                    [created_at] => 2024-06-02 22:35
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 5
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:26:50 --> CSRF token verified.
+INFO - 2024-07-03 02:26:50 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:26:59 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:26:59 --> CSRF token verified.
+INFO - 2024-07-03 02:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:26:59 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:26:59 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:26:59 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 18
+                    [title] => asasd
+                    [price] => 213
+                    [created_at] => 2024-06-02 22:35
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 5
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:27:02 --> CSRF token verified.
+INFO - 2024-07-03 02:27:03 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:27:08 --> Ingreso a edicion de producto
+INFO - 2024-07-03 02:27:10 --> CSRF token verified.
+INFO - 2024-07-03 02:27:10 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 02:27:10 --> CSRF token verified.
+INFO - 2024-07-03 02:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:27:10 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:27:10 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:27:10 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 18
+                    [title] => asasd
+                    [price] => 213
+                    [created_at] => 2024-06-02 22:35
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 5
+    [items] => 5
+)
+
+INFO - 2024-07-03 02:27:18 --> CSRF token verified.
+INFO - 2024-07-03 02:27:18 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:27:18 --> CSRF token verified.
+INFO - 2024-07-03 02:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:27:18 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:27:18 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:27:18 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 4
+    [items] => 4
+)
+
+INFO - 2024-07-03 02:27:24 --> CSRF token verified.
+INFO - 2024-07-03 02:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:27:24 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:27:24 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:27:24 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 4
+    [items] => 4
+)
+
+INFO - 2024-07-03 02:28:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:28:25 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:28:25 --> CSRF token verified.
+INFO - 2024-07-03 02:28:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:28:25 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:28:25 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:28:25 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 4
+    [items] => 4
+)
+
+INFO - 2024-07-03 02:28:36 --> CSRF token verified.
+INFO - 2024-07-03 02:28:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:28:36 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:28:36 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:28:36 --> Products Page: Array
+(
+    [data] => Array
+        (
+        )
+
+    [page] => 1
+    [totalPages] => 0
+    [totalCount] => 0
+    [items] => 0
+)
+
+INFO - 2024-07-03 02:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:30:09 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:30:09 --> CSRF token verified.
+INFO - 2024-07-03 02:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:30:09 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:30:09 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:30:09 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 4
+    [items] => 4
+)
+
+INFO - 2024-07-03 02:30:16 --> CSRF token verified.
+INFO - 2024-07-03 02:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:30:16 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:30:16 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:30:16 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 6
+                    [title] => Producto 62
+                    [price] => 1120
+                    [created_at] => 2024-07-02 16:20
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 1
+    [items] => 1
+)
+
+INFO - 2024-07-03 02:30:20 --> CSRF token verified.
+INFO - 2024-07-03 02:30:20 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:30:20 --> CSRF token verified.
+INFO - 2024-07-03 02:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:30:20 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:30:20 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:30:20 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:30:26 --> CSRF token verified.
+INFO - 2024-07-03 02:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:30:26 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:30:26 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:30:26 --> Products Page: Array
+(
+    [data] => Array
+        (
+        )
+
+    [page] => 1
+    [totalPages] => 0
+    [totalCount] => 0
+    [items] => 0
+)
+
+INFO - 2024-07-03 02:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:30:56 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:30:57 --> CSRF token verified.
+INFO - 2024-07-03 02:30:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:30:57 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:30:57 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:30:57 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:31:02 --> CSRF token verified.
+INFO - 2024-07-03 02:31:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:31:02 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:31:02 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:31:02 --> Products Page: Array
+(
+    [data] => Array
+        (
+        )
+
+    [page] => 1
+    [totalPages] => 0
+    [totalCount] => 0
+    [items] => 0
+)
+
+INFO - 2024-07-03 02:31:16 --> CSRF token verified.
+INFO - 2024-07-03 02:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:31:16 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:31:16 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:31:16 --> Products Page: Array
+(
+    [data] => Array
+        (
+        )
+
+    [page] => 1
+    [totalPages] => 0
+    [totalCount] => 0
+    [items] => 0
+)
+
+INFO - 2024-07-03 02:31:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:31:36 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:31:36 --> CSRF token verified.
+INFO - 2024-07-03 02:31:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:31:36 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:31:36 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:31:36 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:31:51 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:31:51 --> CSRF token verified.
+INFO - 2024-07-03 02:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:31:51 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:31:51 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:31:51 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:31:55 --> CSRF token verified.
+INFO - 2024-07-03 02:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:31:55 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:31:55 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:31:55 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:33:52 --> CSRF token verified.
+INFO - 2024-07-03 02:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:35:28 --> CSRF token verified.
+INFO - 2024-07-03 02:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:35:31 --> CSRF token verified.
+INFO - 2024-07-03 02:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:35:31 --> Intentando obtener listado de usuarios
+INFO - 2024-07-03 02:35:33 --> CSRF token verified.
+INFO - 2024-07-03 02:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:35:33 --> Intentando obtener listado de usuarios
+INFO - 2024-07-03 02:35:36 --> CSRF token verified.
+INFO - 2024-07-03 02:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:35:36 --> Intentando obtener listado de usuarios
+INFO - 2024-07-03 02:35:48 --> CSRF token verified.
+INFO - 2024-07-03 02:35:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:35:48 --> Intentando obtener listado de usuarios
+INFO - 2024-07-03 02:35:55 --> CSRF token verified.
+INFO - 2024-07-03 02:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:36:38 --> CSRF token verified.
+INFO - 2024-07-03 02:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:36:38 --> Intentando obtener listado de usuarios
+INFO - 2024-07-03 02:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:36:38 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:36:38 --> CSRF token verified.
+INFO - 2024-07-03 02:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:36:38 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:36:38 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:36:38 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:37:08 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:37:08 --> CSRF token verified.
+INFO - 2024-07-03 02:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:37:08 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:37:08 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:37:08 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:39:37 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:39:38 --> CSRF token verified.
+INFO - 2024-07-03 02:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:39:38 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:39:38 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:39:38 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:39:42 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:39:42 --> CSRF token verified.
+INFO - 2024-07-03 02:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:39:42 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:39:42 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:39:42 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:39:53 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:39:53 --> CSRF token verified.
+INFO - 2024-07-03 02:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:39:53 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:39:53 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:39:53 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:40:13 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:40:13 --> CSRF token verified.
+INFO - 2024-07-03 02:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:40:13 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:40:13 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:40:13 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:40:20 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:40:20 --> CSRF token verified.
+INFO - 2024-07-03 02:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:40:20 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:40:20 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:40:20 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:40:23 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:40:23 --> CSRF token verified.
+INFO - 2024-07-03 02:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:40:23 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:40:23 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:40:23 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:40:29 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:40:29 --> CSRF token verified.
+INFO - 2024-07-03 02:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:40:29 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:40:29 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:40:29 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:40:41 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:40:41 --> CSRF token verified.
+INFO - 2024-07-03 02:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:40:41 --> Ingreso usuario: Array
+(
+    [id] => 2
+    [user] => localhost
+    [pass] => localhost_user
+    [is_admin] => 
+)
+
+INFO - 2024-07-03 02:40:41 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:40:41 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:41:06 --> CSRF token verified.
+INFO - 2024-07-03 02:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:41:06 --> Intentando obtener listado de usuarios
+INFO - 2024-07-03 02:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:41:06 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:41:06 --> CSRF token verified.
+INFO - 2024-07-03 02:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:41:06 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:41:06 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:41:06 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:41:17 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:41:17 --> CSRF token verified.
+INFO - 2024-07-03 02:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:41:17 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:41:17 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:41:17 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:41:36 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:41:36 --> CSRF token verified.
+INFO - 2024-07-03 02:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:41:36 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:41:36 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:41:36 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:41:44 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:41:44 --> CSRF token verified.
+INFO - 2024-07-03 02:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:41:44 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:41:44 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:41:44 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:41:50 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:41:51 --> CSRF token verified.
+INFO - 2024-07-03 02:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:41:51 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:41:51 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:41:51 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:42:11 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:42:11 --> CSRF token verified.
+INFO - 2024-07-03 02:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:42:11 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:42:11 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:42:11 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:42:28 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:42:28 --> CSRF token verified.
+INFO - 2024-07-03 02:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:42:28 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:42:28 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:42:28 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:42:45 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:42:46 --> CSRF token verified.
+INFO - 2024-07-03 02:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:42:46 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:42:46 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:42:46 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:42:51 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:42:51 --> CSRF token verified.
+INFO - 2024-07-03 02:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:42:51 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:42:51 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:42:51 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:42:55 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:42:55 --> CSRF token verified.
+INFO - 2024-07-03 02:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:42:55 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:42:55 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:42:55 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:42:59 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:42:59 --> CSRF token verified.
+INFO - 2024-07-03 02:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:42:59 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:42:59 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:42:59 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:43:11 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:43:11 --> CSRF token verified.
+INFO - 2024-07-03 02:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:43:11 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:43:11 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:43:11 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:43:15 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:43:15 --> CSRF token verified.
+INFO - 2024-07-03 02:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:43:15 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:43:15 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:43:15 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:43:30 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:43:30 --> CSRF token verified.
+INFO - 2024-07-03 02:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:43:30 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:43:30 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:43:30 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:43:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:43:36 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:43:37 --> CSRF token verified.
+INFO - 2024-07-03 02:43:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:43:37 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:43:37 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:43:37 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:43:42 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:43:42 --> CSRF token verified.
+INFO - 2024-07-03 02:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:43:42 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:43:42 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:43:42 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:43:47 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:43:47 --> CSRF token verified.
+INFO - 2024-07-03 02:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-03 02:43:47 --> Ingreso usuario: Array
+(
+    [id] => 1
+    [user] => med96
+    [pass] => admin_123
+    [is_admin] => 1
+)
+
+INFO - 2024-07-03 02:43:47 --> Ingreso a listado de productos
+INFO - 2024-07-03 02:43:47 --> Products Page: Array
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 19
+                    [title] => aaa
+                    [price] => 1
+                    [created_at] => 2024-07-03 01:52
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 20
+                    [title] => asdad
+                    [price] => 1223
+                    [created_at] => 2024-07-03 02:01
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 21
+                    [title] => sda2
+                    [price] => 22
+                    [created_at] => 2024-07-03 02:12
+                )
+
+        )
+
+    [page] => 1
+    [totalPages] => 1
+    [totalCount] => 3
+    [items] => 3
+)
+
+INFO - 2024-07-03 02:44:06 --> Ingreso a actualizacion de producto
+INFO - 2024-07-03 02:44:06 --> Ingreso a eliminacion de producto
+INFO - 2024-07-03 02:44:06 --> Ingreso a eliminacion de producto

@@ -1,0 +1,210 @@
+CRITICAL - 2024-06-30 19:43:56 --> ErrorException: Undefined property: App\Controllers\Products::$load
+[Method: GET, Route: /]
+in APPPATH/Controllers/Products.php on line 13.
+ 1 APPPATH/Controllers/Products.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Products->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/home/med96/tmp/public/index.php')
+CRITICAL - 2024-06-30 19:44:00 --> ErrorException: Undefined property: App\Controllers\Products::$load
+[Method: GET, Route: /]
+in APPPATH/Controllers/Products.php on line 13.
+ 1 APPPATH/Controllers/Products.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Products->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/home/med96/tmp/public/index.php')
+CRITICAL - 2024-06-30 19:44:13 --> ErrorException: Undefined property: App\Controllers\Products::$load
+[Method: GET, Route: /]
+in APPPATH/Controllers/Products.php on line 13.
+ 1 APPPATH/Controllers/Products.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Products->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/home/med96/tmp/public/index.php')
+CRITICAL - 2024-06-30 19:47:43 --> ErrorException: Declaration of App\Models\Product::insert($product) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: /]
+in APPPATH/Models/Product.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-06-30 19:48:28 --> ErrorException: Declaration of App\Models\Product::insert($product) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: /]
+in APPPATH/Models/Product.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-06-30 19:48:29 --> ErrorException: Declaration of App\Models\Product::insert($product) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: /]
+in APPPATH/Models/Product.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-06-30 19:48:29 --> ErrorException: Declaration of App\Models\Product::insert($product) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: /]
+in APPPATH/Models/Product.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-06-30 19:48:29 --> ErrorException: Declaration of App\Models\Product::insert($product) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: /]
+in APPPATH/Models/Product.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-06-30 19:48:29 --> ErrorException: Declaration of App\Models\Product::insert($product) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: /]
+in APPPATH/Models/Product.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-06-30 19:50:13 --> ErrorException: Declaration of App\Models\Product::insert($product) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: /]
+in APPPATH/Models/Product.php on line 12.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-06-30 19:50:14 --> ErrorException: Declaration of App\Models\Product::insert($product) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: /]
+in APPPATH/Models/Product.php on line 12.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-06-30 19:53:28 --> ErrorException: Declaration of App\Models\Product::insert($product) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: /]
+in APPPATH/Models/Product.php on line 12.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-06-30 19:58:08 --> ErrorException: Declaration of App\Models\Product::insert($product) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: /]
+in APPPATH/Models/Product.php on line 12.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-06-30 19:59:44 --> ErrorException: Declaration of App\Models\Product::update($product) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: GET, Route: /]
+in APPPATH/Models/Product.php on line 37.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-06-30 20:00:11 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/Database.php on line 139.
+ 1 SYSTEMPATH/Database/Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH/Database/Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH/Model.php(713): CodeIgniter\Database\Config::connect()
+ 4 SYSTEMPATH/Model.php(922): CodeIgniter\Model->builder()
+ 5 APPPATH/Controllers/Products.php(19): CodeIgniter\Model->__call()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Products->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH/rewrite.php(44): require_once('/home/med96/tmp/public/index.php')
+CRITICAL - 2024-06-30 20:06:21 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/Database.php on line 139.
+ 1 SYSTEMPATH/Database/Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH/Database/Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH/Model.php(713): CodeIgniter\Database\Config::connect()
+ 4 SYSTEMPATH/Model.php(922): CodeIgniter\Model->builder()
+ 5 APPPATH/Controllers/Products.php(19): CodeIgniter\Model->__call()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Products->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH/rewrite.php(44): require_once('/home/med96/tmp/public/index.php')
+CRITICAL - 2024-06-30 20:06:34 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/Database.php on line 139.
+ 1 SYSTEMPATH/Database/Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH/Database/Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH/Model.php(713): CodeIgniter\Database\Config::connect()
+ 4 SYSTEMPATH/Model.php(922): CodeIgniter\Model->builder()
+ 5 APPPATH/Controllers/Products.php(19): CodeIgniter\Model->__call()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Products->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH/rewrite.php(44): require_once('/home/med96/tmp/public/index.php')
+CRITICAL - 2024-06-30 20:11:41 --> ErrorException: Undefined variable $products
+[Method: GET, Route: /]
+in APPPATH/Views/products/productsMain.php on line 21.
+ 1 APPPATH/Views/products/productsMain.php(21): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/med96/tmp/app/Views/products/productsMain.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Products.php(20): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Products->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH/rewrite.php(44): require_once('/home/med96/tmp/public/index.php')
+CRITICAL - 2024-06-30 20:16:52 --> ErrorException: file_get_contents(/home/med96/tmp/app/Config../Database/jsonFile/productos.json): Failed to open stream: No such file or directory
+[Method: GET, Route: /]
+in APPPATH/Models/Product.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Models/Product.php(74): file_get_contents()
+ 3 APPPATH/Controllers/Products.php(19): App\Models\Product->getAllProducts()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Products->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH/rewrite.php(44): require_once('/home/med96/tmp/public/index.php')
+CRITICAL - 2024-06-30 22:51:05 --> ErrorException: Undefined variable $title
+[Method: GET, Route: /]
+in APPPATH/Views/products/productsList.php on line 8.
+ 1 APPPATH/Views/products/productsList.php(8): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/med96/tmp/app/Views/products/productsList.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Products.php(20): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Products->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH/rewrite.php(44): require_once('/home/med96/tmp/public/index.php')
+CRITICAL - 2024-06-30 22:51:25 --> ErrorException: Undefined variable $producs
+[Method: GET, Route: /]
+in APPPATH/Views/products/productsList.php on line 22.
+ 1 APPPATH/Views/products/productsList.php(22): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/med96/tmp/app/Views/products/productsList.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Products.php(20): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Products->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH/rewrite.php(44): require_once('/home/med96/tmp/public/index.php')
+CRITICAL - 2024-06-30 22:51:35 --> ErrorException: Undefined variable $talonario
+[Method: GET, Route: /]
+in APPPATH/Views/products/productsList.php on line 32.
+ 1 APPPATH/Views/products/productsList.php(32): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/med96/tmp/app/Views/products/productsList.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Products.php(20): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Products->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH/rewrite.php(44): require_once('/home/med96/tmp/public/index.php')
+CRITICAL - 2024-06-30 22:51:40 --> ErrorException: Undefined variable $talonario
+[Method: GET, Route: /]
+in APPPATH/Views/products/productsList.php on line 32.
+ 1 APPPATH/Views/products/productsList.php(32): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/home/med96/tmp/app/Views/products/productsList.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Products.php(20): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Products->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH/rewrite.php(44): require_once('/home/med96/tmp/public/index.php')

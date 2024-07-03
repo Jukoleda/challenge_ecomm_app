@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="C:\Users\med96\Desktop\tmp\phpunit.xml.dist" tests="6" assertions="8" errors="0" failures="0" skipped="0" time="0.062814">
+    <testsuite name="App" tests="6" assertions="8" errors="0" failures="0" skipped="0" time="0.062814">
+      <testsuite name="App\Controllers\HomeTest" file="C:\Users\med96\Desktop\tmp\tests\app\Controllers\HomeTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.028799">
+        <testcase name="testIndex" file="C:\Users\med96\Desktop\tmp\tests\app\Controllers\HomeTest.php" line="12" class="App\Controllers\HomeTest" classname="App.Controllers.HomeTest" assertions="1" time="0.028799"/>
+      </testsuite>
+      <testsuite name="ExampleDatabaseTest" file="C:\Users\med96\Desktop\tmp\tests\database\ExampleDatabaseTest.php" tests="2" assertions="3" errors="0" failures="0" skipped="0" time="0.025278">
+        <testcase name="testModelFindAll" file="C:\Users\med96\Desktop\tmp\tests\database\ExampleDatabaseTest.php" line="17" class="ExampleDatabaseTest" classname="ExampleDatabaseTest" assertions="1" time="0.019552"/>
+        <testcase name="testSoftDeleteLeavesRow" file="C:\Users\med96\Desktop\tmp\tests\database\ExampleDatabaseTest.php" line="28" class="ExampleDatabaseTest" classname="ExampleDatabaseTest" assertions="2" time="0.005726"/>
+      </testsuite>
+      <testsuite name="ExampleSessionTest" file="C:\Users\med96\Desktop\tmp\tests\session\ExampleSessionTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.001389">
+        <testcase name="testSessionSimple" file="C:\Users\med96\Desktop\tmp\tests\session\ExampleSessionTest.php" line="11" class="ExampleSessionTest" classname="ExampleSessionTest" assertions="1" time="0.001389"/>
+      </testsuite>
+      <testsuite name="HealthTest" file="C:\Users\med96\Desktop\tmp\tests\unit\HealthTest.php" tests="2" assertions="3" errors="0" failures="0" skipped="0" time="0.007349">
+        <testcase name="testIsDefinedAppPath" file="C:\Users\med96\Desktop\tmp\tests\unit\HealthTest.php" line="13" class="HealthTest" classname="HealthTest" assertions="1" time="0.001227"/>
+        <testcase name="testBaseUrlHasBeenSet" file="C:\Users\med96\Desktop\tmp\tests\unit\HealthTest.php" line="18" class="HealthTest" classname="HealthTest" assertions="2" time="0.006122"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

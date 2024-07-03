@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "user": "med96",
+        "pass": "admin_123",
+        "is_admin": true
+    },
+    {
+        "id": 2,
+        "user": "localhost",
+        "pass": "localhost_user",
+        "is_admin": false
+    }
+]

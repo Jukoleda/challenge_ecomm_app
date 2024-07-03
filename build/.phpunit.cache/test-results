@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Controllers\\HomeTest::testIndex":8},"times":{"App\\Controllers\\HomeTest::testIndex":0.014,"ExampleDatabaseTest::testModelFindAll":0.002,"ExampleDatabaseTest::testSoftDeleteLeavesRow":0.001,"ExampleSessionTest::testSessionSimple":0,"HealthTest::testIsDefinedAppPath":0,"HealthTest::testBaseUrlHasBeenSet":0.005}}
